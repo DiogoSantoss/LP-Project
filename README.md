@@ -1,7 +1,7 @@
 O objetivo deste projecto é escrever um programa em PROLOG para resolver puzzles de
 palavras cruzadas, de agora em diante designados apenas por "puzzles".
 
-## 1 Representação de puzzles
+# 1 Representação de puzzles
 Um puzzle é representado por uma lista de dois elementos:
 • O primeiro elemento é uma lista de palavras,
 • O segundo elemento é uma grelha.
@@ -18,7 +18,7 @@ Por exemplo, o puzzle da Fig. 1 é representado por
 [P31, #, P33, #, P35, a, P37, #],
 [P41, P42, P43, P44, P45, #, #, #],
 [P51, #, P53, #, #, #, #, #]]]
-## 2 Abordagem
+# 2 Abordagem
 Nesta secção apresentamos o algoritmo que o seu programa deve usar na resolução de
 puzzles.
 ## 2.1 Inicialização
